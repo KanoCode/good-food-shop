@@ -412,9 +412,6 @@ ol {
 	/* height: 30%; */
 }
 
-.header__logo img{
-	max-width: 40%;
-}
 
 .header__logo a {
 	display: inline-block;
